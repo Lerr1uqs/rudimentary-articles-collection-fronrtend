@@ -1,3 +1,10 @@
+```shell
+npx create-react-app react-fluentui-demo --template typescript
+cd react-fluentui-demo
+npm install @fluentui/react @reduxjs/toolkit react-redux
+
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
